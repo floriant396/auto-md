@@ -30,3 +30,4 @@
 - chore: link the usage section
 - chore: link the usage section
 - docs: fix a small wording issue
+- chore: add a note about the defaults
